@@ -9,7 +9,11 @@ This is my reading note for coding
 ## What is Growth Mindset?
 ![image](https://user-images.githubusercontent.com/122635175/212670421-46b798eb-04c8-4f8b-b7e0-7db20de051d1.png)
 
-Growth midset is never giving up on myself if it is too hard
+A growth mindset is a positive mindset. It is an ability to always think positive and believing in one's true self.
+
+It is a mindset that welcome criticism and always ready to take feedbacks onboard and strive to improve.
+
+With a growth mindset, one see failure as an opportunity to learn a better way of doing thing, an avenue to improve and become better version of oneself.
 [For more information](docs/Readmore.md)
 
 Three Reminders to myself of how to keep yourself in a growth mindset
