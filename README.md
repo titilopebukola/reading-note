@@ -14,7 +14,7 @@ A growth mindset is a positive mindset. It is an ability to always think positiv
 It is a mindset that welcome criticism and always ready to take feedbacks onboard and strive to improve.
 
 With a growth mindset, one see failure as an opportunity to learn a better way of doing thing, an avenue to improve and become better version of oneself.
-[For more information](docs/Readmore.md)
+[Read more](docs/Readmore.md)
 
 Three Reminders to myself of how to keep yourself in a growth mindset
 - Never give up on difficult task.
