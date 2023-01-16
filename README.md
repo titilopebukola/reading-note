@@ -7,6 +7,8 @@ I'm a sole trader and I love learning new thing.
 This is my reading note for coding
 
 ## What is Growth Mindset?
+![image](https://user-images.githubusercontent.com/122635175/212670421-46b798eb-04c8-4f8b-b7e0-7db20de051d1.png)
+
 Growth midset is never giving up on myself if it is too hard
 [For more information](docs/Readmore.md)
 
