@@ -1,4 +1,4 @@
-# reading-note
+# reading-notes
 ## Who is Titilope? 
 Hello everyone, my name is Titilope.
 I'm a sole trader and I love learning new thing.
