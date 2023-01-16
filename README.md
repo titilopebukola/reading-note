@@ -8,4 +8,4 @@ This is my reading note for coding
 
 ## What is Growth Mindset?
 Growth midset is never giving up on myself if it is too hard
-
+[For more information](docs/Readmore.md)
