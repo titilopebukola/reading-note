@@ -18,4 +18,3 @@ Three Reminders to myself of how to keep yourself in a growth mindset
 - The fact that I don't get it now doesn't mean I can't get it later.
 
 
-![growth mindset image](image/titi)
