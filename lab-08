@@ -1,0 +1,29 @@
+// loop
+// a while loop
+let number = 0;
+
+while(number < 10) {
+    // put number into console
+    console.log(number)
+
+    number = number + 1;
+}
+
+    let myNum = 0;
+
+
+    while(myNum < 10) {
+        console.log()
+// increase number by 1 each loop
+        number = number + 1;
+    }
+
+    // for loop
+    // initialization; condition; increment
+    for(let i = 0; i < 10; i++) {
+console.log(i * 10)
+    }
+
+    let a = 10
+
+    a = a * 10;
